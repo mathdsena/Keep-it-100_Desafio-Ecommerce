@@ -1,8 +1,17 @@
-# 🛒 DevStore - Fullstack E-commerce Challenge
+#  Keep It 100! - Vinil Store
 
-Este projeto é uma aplicação de e-commerce completa, desenvolvida como um desafio técnico. O objetivo foi criar uma experiência de compra fluida, desde a listagem de produtos até a simulação de checkout com diferentes métodos de pagamento.
+Uma loja virtual imersiva focada em colecionáveis de música, desenvolvida como solução para o Tech Challenge.
 
-## 🚀 Tecnologias Utilizadas
+#  Diferenciais do Projeto
+Diferente de uma loja genérica, este projeto foca na Experiência do Usuário (UX) e Identidade Visual:
+
+- **Design System Personalizado**: Tema "Dark/Vinil" com paleta bordô e efeitos de glassmorphism.
+
+- **Interatividade: Feedbacks visuais (Toasts personalizados, Loadings animados, Microinterações nos botões).**
+
+- **Responsividade**: Layout fluido que se adapta de celulares a desktops.
+
+## Tecnologias Utilizadas
 
 ### Backend
 - **.NET 8/9**
@@ -14,13 +23,13 @@ Este projeto é uma aplicação de e-commerce completa, desenvolvida como um des
 - **Tailwind CSS**: Para estilização e responsividade através de classes utilitárias.
 - **Lucide React**: Biblioteca de ícones para melhorar a experiência visual.
 
-## 🧠 Decisões de Arquitetura
+## Decisões de Arquitetura
 
 1. **Persistência Local**: Implementação do uso de `localStorage` no frontend para garantir que o carrinho de compras do usuário persista mesmo após o fechamento da aba ou atualização da página.
 2. **Validação de Negócio**: No backend, o sistema valida se o carrinho contém itens antes de processar o checkout, retornando mensagens claras de erro ou sucesso.
 3. **Simulação de Pagamento**: Adicionei um seletor dinâmico de métodos de pagamento (Pix, Cartão, Boleto) para tornar o fluxo de checkout o mais próximo possível de um cenário real.
 
-## 🛠️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 - .NET SDK instalado
