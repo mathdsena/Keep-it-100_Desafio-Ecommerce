@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TechChallengeApi",
+    "\\TechChallengeApi\\Controllers",
+    "\\TechChallengeApi\\Data",
+    "\\TechChallengeApi\\DTOs",
+    "\\TechChallengeApi\\Migrations",
+    "\\TechChallengeApi\\Models",
+    "\\TechChallengeApi\\Properties"
+  ],
+  "SelectedNode": "\\TechChallengeApi\\Properties",
+  "PreviewInSolutionExplorer": false
+}
