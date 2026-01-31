@@ -21,7 +21,7 @@ export default function Navbar({ cartCount }) {
               keep it 100!
             </span>
             <span className="text-[10px] uppercase tracking-[0.2em] text-[#fff0f3]/70 font-sans mt-1">
-              Fan Merch
+              Vinil Store
             </span>
           </div>
         </Link>
@@ -38,4 +38,5 @@ export default function Navbar({ cartCount }) {
       </div>
     </nav>
   );
+
 }
